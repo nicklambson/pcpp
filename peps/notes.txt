@@ -1,0 +1,9 @@
+Python Enhancement proposals
+A collection of guidelines, best practices, descriptions of features and implementations, as well as processes, mechanisms, and important information. All PEPs.
+
+Standards Track PEPs: describe new language features
+Informational PEPs: Python design issues and guidelines
+Process PEPs: describe processes around Python
+
+PEP 1: defines a steering council, core developers, and BDFL (Guido van Rossum)
+
